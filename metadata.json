@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Analyzer",
+  "description": "Professional AI-powered tool to analyze resumes against job descriptions using Google Gemini, providing match scores, skill gap analysis, and ATS optimization tips.",
+  "requestFramePermissions": []
+}
